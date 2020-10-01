@@ -23,6 +23,10 @@
 
 It is possible to add expenses and income online and offline.
 
+Screen shot of application:
+![photo](./public/assets/screenShots/budgetTracker.png)
+
+
   ## License
 
   This application uses MIT License
