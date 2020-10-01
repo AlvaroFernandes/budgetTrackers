@@ -1,6 +1,6 @@
 # Budget Tracker
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) https://github.com/AlvaroFernandes/budgetTrackers/blob/master/LICENSE]
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlvaroFernandes/budgetTrackers/blob/master/LICENSE)
 
 
 ## Description
